@@ -49,6 +49,10 @@ See the [examples](examples/) folder for complete examples including:
 
 ### Loss Functions
 * Mean Squared Error
+* Binary Cross Entropy
 
 ### Activation Functions
-* Hyperbolic Tangent
+* ReLU
+* Sigmoid
+* Softmax
+* Tanh (Hyperbolic Tangent)
